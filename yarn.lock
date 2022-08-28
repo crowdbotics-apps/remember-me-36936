@@ -1240,6 +1240,9 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
+"@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
